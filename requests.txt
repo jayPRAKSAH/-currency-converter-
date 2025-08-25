@@ -1,0 +1,5 @@
+import requests  # Import the library at the top of your file
+
+# Example usage
+response = requests.get('https://api.example.com/data')
+
