@@ -16,6 +16,7 @@ A Python script that converts currencies using real-time exchange rates from an 
 ## Installation
 
 1. Clone this repository:
+
    ```
    git clone https://github.com/yourusername/currency-converter.git
    cd currency-converter
@@ -35,11 +36,13 @@ python app.py
 ```
 
 Follow the prompts to:
+
 1. Enter the currency to convert from (e.g., USD)
 2. Enter the currency to convert to (e.g., EUR)
 3. Enter the amount to convert
 
 Example output:
+
 ```
 💱 Welcome to Currency Converter 💱
 ==================================
