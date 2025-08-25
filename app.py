@@ -46,3 +46,6 @@ if __name__ == "__main__":
 # Make sure to install the requests library before running the script
 # You can install it using the following command:
 # pip install requests
+#
+# Author: jayPRAKSAH
+# GitHub: https://github.com/jayPRAKSAH/-currency-converter-
